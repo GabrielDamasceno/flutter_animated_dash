@@ -1,16 +1,14 @@
-# flutter_animated_dash
+<h1 align="center"> Polygonal Dash </h1>
 
-A new Flutter project.
+![](https://img.shields.io/github/license/gabrieldamasceno/flutter_animated_dash)
+![](https://img.shields.io/github/languages/code-size/gabrieldamasceno/flutter_animated_dash)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center"> Just a polygonal Dash animated from scratch. :bird: </p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align='center'>
+    <img src="https://raw.githubusercontent.com/GabrielDamasceno/flutter_animated_dash/master/doc/animated_dash.gif" width="30%" height="30%"/>
+</p>
