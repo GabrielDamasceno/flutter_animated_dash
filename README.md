@@ -3,9 +3,6 @@
 ![](https://img.shields.io/github/license/gabrieldamasceno/flutter_animated_dash)
 ![](https://img.shields.io/github/languages/code-size/gabrieldamasceno/flutter_animated_dash)
 
-
-<br>
-
 <p align="center"> Just a polygonal Dash animated from scratch. :bird: </p>
 
 
